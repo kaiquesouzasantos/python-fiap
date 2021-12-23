@@ -285,5 +285,3 @@ while opcao>0 and opcao<3:
     elif opcao==2:
         exibir("inventario_json.json")
     opcao = chamarMenu()
-
-#PRATICA 14:
